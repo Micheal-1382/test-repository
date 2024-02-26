@@ -7,4 +7,5 @@ const f = 1
 const d = 1
 const g = 1
 const s = 1
+const k = 1
 
